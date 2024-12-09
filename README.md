@@ -1,2 +1,2 @@
 # Python-darslar
-Ushbu repositoryda Python darslariga oif kodlar jamlangan
+Ushbu repositoryda Python darslariga oid kodlar jamlangan
