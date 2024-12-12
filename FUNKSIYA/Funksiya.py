@@ -270,3 +270,25 @@ print(talabalar)
 
 # filter   --  list, set, tupl ning ichidan biron qoida shatrt uchun kerak bo'ladi
 # map -- biron qoida assosida yangi list yaratish
+
+
+def talaba(*name):
+    print(name)
+
+
+
+# 2 ta sion yig'indisini chiqaradigan funksiya yarating
+def yigindi2(d,j):
+    return d+j
+
+print(yigindi2(30,40) )
+
+
+# 3 ta sion yig'indisini chiqaradigan funksiya yarating
+def yigindi3(d,t,o):
+    return d+t+o
+
+print(yigindi3(40,50,80))
+
+
+
